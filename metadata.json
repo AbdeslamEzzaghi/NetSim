@@ -1,0 +1,5 @@
+{
+  "name": "NetSim Topology Visualizer",
+  "description": "A bilingual (English/French) interactive network topology simulator. Visualize message transmission in Bus, Ring, Star, and Mesh networks, and simulate device or cable failures.",
+  "requestFramePermissions": []
+}
